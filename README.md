@@ -1,6 +1,8 @@
-# Olá, eu sou a Beatriz! 👋
+# Hi everyone , Im Clementino Sousa! 👋
 
-> Desenvolvedora focada no ecossistema **.NET (C#)** e na criação de soluções robustas de software. Tenho experiência prática no desenvolvimento de aplicações desktop interativas e na arquitetura de serviços back-end modernos.
+> Desenvolvedor  junior focada no ecossistema **.NET (C#)** e na criação de soluções robustas de software. Tenho experiência prática no desenvolvimento de aplicações desktop interativas e na arquitetura de serviços back-end modernos.
+>
+> BUSCANDO UMA VAGA ESTAGIARIA OU JUNIOR REMOTA
 
 ---
 
@@ -30,7 +32,7 @@ No meu dia a dia de desenvolvimento, utilizo essa combinação de tecnologias pa
 
 * **Sistemas Comerciais e Industriais (Windows Forms):** Softwares de frente de caixa (PDV), controle de estoque, fluxo de caixa e cadastros internos que rodam direto no computador do usuário.
 * **Integrações Inteligentes (APIs REST):** Motores de busca e microsserviços que conectam esses sistemas locais a bancos de dados na nuvem, emitindo relatórios e processando dados em formato JSON.
-* **Transição de Arquiteturas:** Uso da base sólida de C#/.NET para criar lógica de negócios reaproveitável, estruturando projetos modulares e aplicando herança, polimorfismo e interfaces também em soluções baseadas em Java.
+* **Transição de Arquiteturas:**   Uso da base sólida de C#/.NET para criar lógica de negócios reaproveitável, buscando aprender estruturacao de  projetos modulares e aplicando herança, polimorfismo e interfaces também em soluções baseadas em Java.
 
 ---
 
@@ -48,8 +50,9 @@ No meu dia a dia de desenvolvimento, utilizo essa combinação de tecnologias pa
 * **Bancos de Dados & Persistência:** SQL Server e MySQL usando Entity Framework Core (EF Core) e ADO.NET para conexões rápidas e consultas otimizadas.
 
 #### 🧰 Ferramentas de Trabalho
-* **IDEs:** Visual Studio / VS Code / IntelliJ IDEA
-* **Testes e Controle:** Postman (Consumo de APIs) / Git e GitHub (Versionamento de Código)
+* **Ambientes IDEs:** Visual Studio / VS Code 
+* **Controle:**   Git e GitHub (Versionamento de Código)
+* **Testes:** Estou aprendendo Postman (Consumo de APIs) 
 
 ---
 
