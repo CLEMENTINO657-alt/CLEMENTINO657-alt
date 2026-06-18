@@ -73,7 +73,8 @@ No meu dia a dia de desenvolvimento, utilizo essa combinação de tecnologias pa
 
 Sinta-se à vontade para entrar em contato através dos links clicáveis abaixo:
 
-* 🚀 **Meu GitHub Profissional:** [://github.com](https://://github.com)
+* 🚀 **Meu GitHub Profissional:** [://github.com](https://://github.com/CLEMENTINO657-alt
+)
 * 💬 **Meu WhatsApp Direto:** [+244 928 272 334](https://wa.me)
 * 📧 **Meu E-mail de Contato:** [beatrizemilia657@gmail.com](mailto:beatrizemilia657@gmail.com)
 
